@@ -1,4 +1,4 @@
 this is my first text file which is going to be version controlled
 again adding second line after i checkout the modified version
-
+test added from slave branch
 
